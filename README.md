@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=37BCF7&center=true&vCenter=true&width=850&height=60&lines=🚀+Mohamed+Ibrahim;⚛️+Quantum+Computing+Explorer;AI+%7C+Cloud+%7C+Edge+Tech+Enthusiast;Innovating+IT+for+the+Future!;Open-Source+Contributor+%7C+Tech+Educator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=37BCF7&center=true&vCenter=true&width=850&height=60&lines=🚀+Mohamed+Ibrahim;⚛️+Quantum+Computing;🧠+AI;🌐+Edge+&+Cloud"/>
 </h1>
 
 <p align="center">
@@ -53,16 +53,6 @@ I'm currently applying to become a **GitHub Campus Expert** and helping my peers
 - 🧩 **Community Building**:
   - 💬 Led student interest groups & mentored beginners
   - 🎯 Helped 100+ students start with emerging tech
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdIbuA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdIbuA&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 

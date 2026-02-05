@@ -37,7 +37,7 @@ I'm currently applying to become a **GitHub Campus Expert** and helping my peers
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,flutter,html,css,js,react,figma" />
   <br />
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,qiskit,tensorflow,cloud" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,tensorflow,cloud" />
 </p>
 
 ---

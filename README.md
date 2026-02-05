@@ -35,9 +35,9 @@ I'm currently applying to become a **GitHub Campus Expert** and helping my peers
 ## 🛠️ My Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,flutter,html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,flutter,html,css,js,react,typescript,figma" />
   <br />
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,tensorflow,cloud" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,tensorflow,gcp" />
 </p>
 
 ---
